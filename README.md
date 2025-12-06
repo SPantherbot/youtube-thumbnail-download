@@ -5,11 +5,11 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://youtubethumbkit.netlify.app/
+View : https://youtubethumbkit.netlify.app/
 
-## Run Locally
+## Run Locally or deploy on netlify
 
-**Prerequisites:**  Node.js
+requirments:  Node.js
 
 
 1. Install dependencies:
