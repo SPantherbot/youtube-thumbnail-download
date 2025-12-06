@@ -1,0 +1,26 @@
+# robots.txt for ThumbGrabber AI
+User-agent: *
+Allow: /
+Allow: /privacy
+Allow: /terms
+Allow: /contact
+
+# Disallow admin areas (if any)
+Disallow: /api/
+Disallow: /admin/
+
+# Sitemap location
+Sitemap: SITE_URL/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 0
+
+# Allow popular search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
