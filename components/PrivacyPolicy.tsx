@@ -11,7 +11,7 @@ const PrivacyPolicy: React.FC = () => {
           <h1 className="text-4xl font-black text-[var(--text)] mb-8">Privacy Policy</h1>
           
           <div className="prose prose-lg prose-gray max-w-none text-[var(--text-muted)]">
-            <p className="text-sm font-bold opacity-60 mb-8 uppercase tracking-widest">Last updated: May 20, 2024</p>
+            <p className="text-sm font-bold opacity-60 mb-8 uppercase tracking-widest">Last updated: dec 5, 2025</p>
             
             <h2 className="text-2xl font-bold text-[var(--text)] mt-10 mb-4">1. Information We Collect</h2>
             <p>
