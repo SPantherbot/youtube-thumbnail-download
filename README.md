@@ -5,7 +5,7 @@
 
 This contains everything you need to run your app locally.
 
-View : https://youtubethumbkit.netlify.app/
+View : https://youtubethumbkit.netlify.app/ AI GENARTED USING GOOGLE AI STUDIO.
 
 ## Run Locally or deploy on netlify
 
